@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dare Ogungbenle
+#  Hi, I'm Dare Ogungbenle
 
-🔐 **Cybersecurity Analyst | Penetration Tester | Vulnerability Management**
+ **Cybersecurity Analyst | Penetration Tester | Vulnerability Management**
 
 I am a cybersecurity professional with hands-on experience conducting security assessments, penetration testing, OSINT investigations, and vulnerability analysis. I specialize in identifying security weaknesses and producing clear, actionable reports.
 
@@ -16,7 +16,7 @@ I am a cybersecurity professional with hands-on experience conducting security a
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 🔹 **Web Application Enumeration & Testing**
 - Tools: Nmap, Dirb, Burp Suite
@@ -32,14 +32,14 @@ I am a cybersecurity professional with hands-on experience conducting security a
 
 ---
 
-## 📄 Sample Reports
-➡️ Check my repositories for:
+##  Sample Reports
+ Check my repositories for:
 - Penetration Testing Reports
 - OSINT Analysis Reports
 - Web Enumeration Results
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn: https://linkedin.com/in/dare-o-55a0721b8
 - GitHub: https://github.com/dareygbenle
