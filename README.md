@@ -18,15 +18,15 @@ I am a cybersecurity professional with hands-on experience conducting security a
 
 ##  Featured Projects
 
-🔹 **Web Application Enumeration & Testing**
+ **Web Application Enumeration & Testing**
 - Tools: Nmap, Dirb, Burp Suite
 - Deliverables: Professional penetration testing reports
 
-🔹 **OSINT & Reconnaissance**
+ **OSINT & Reconnaissance**
 - Tools: SpiderFoot, DNSRecon, Photon
 - Focus: Infrastructure analysis & threat intelligence
 
-🔹 **Vulnerability Scanning**
+ **Vulnerability Scanning**
 - Tools: Nuclei, Nessus
 - Focus: CVE detection & remediation guidance
 
