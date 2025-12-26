@@ -41,5 +41,5 @@ I am a cybersecurity professional with hands-on experience conducting security a
 ---
 
 ##  Connect With Me
-- LinkedIn: https://linkedin.com/in/dare-o-55a0721b8
+- https://www.linkedin.com/in/dare-o-930027385/
 - GitHub: https://github.com/dareygbenle
